@@ -1,0 +1,75 @@
+{
+   "Employees":[
+    {
+        "userId": 482683 ,
+        "FirstName":"John",
+        "LastName":"Smith",
+        "Salary": 80000,
+        "Department": "Internal Affairs"
+    },
+    {
+        "userId": 158987,
+        "FirstName": "Brandon",
+        "LastName": "Knight",
+        "Salary": 780460,
+        "Department": "Sports Medicine"
+    },
+    {
+        "userId": 237397,
+        "FirstName": "Rowan",
+        "LastName": "Barret",
+        "Salary":896152,
+        "Department": "Dog trainer"
+    },
+    {
+        "userId": 385695,
+        "FirstName": "Lebron",
+        "LastName": "James",
+        "Salary":479031,
+        "Department": "Human Resources"
+    },
+    {
+        "userId": 740688,
+        "FirstName": "Lionel",
+        "LastName": "Messi",
+        "Salary":142769,
+        "Department": "Librarian"
+    },
+    {
+        "userId": 644608,
+        "FirstName": "Jeff",
+        "LastName": "Seid",
+        "Salary":123251,
+        "Department": "Account Exexcutive"
+    },
+    {
+        "userId": 803501,
+        "FirstName": "Christopher",
+        "LastName": "Bumstead",
+        "Salary":667194,
+        "Department": "President of Sales"
+    },
+    {
+        "userId": 158712,
+        "FirstName": "Bruce",
+        "LastName": "Wayne",
+        "Salary":123731,
+        "Department": "Chief executive officer"
+    },
+    {
+        "userId": 996292,
+        "FirstName": "Cristiano",
+        "LastName": "Ronaldo",
+        "Salary":748385,
+        "Department": "Intern"
+    },
+    {
+        "userId": 578119,
+        "FirstName": "Kyrie",
+        "LastName": "Irving",
+        "Salary":760907,
+        "Department": "Secretary"
+    }
+   ] 
+}
+
